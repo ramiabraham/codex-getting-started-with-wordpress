@@ -27,9 +27,7 @@ If you're new to [http://www.wordpress.org/ WordPress], here is a step-by-step p
 
 ==Step One - Read==
 
-[[File:stepOneRead.png|125px|thumb|flowchart]]
-
-WordPress is a great product. It's easy-to-use, quite powerful, and flexible. Before you invest your valuable time and energy into installing WordPress, there are some documents you need to read to help you get started. 
+WordPress is a great product. It's easy-to-use, quite powerful, and flexible. Before you invest your valuable time and energy into installing WordPress, there are some documents you need to read to help you get started.
 
 * [[WordPress| What is WordPress?]]
 * [[WordPress Features]]
@@ -132,7 +130,7 @@ Having trouble with anything? Try the links below for more in-depth info with In
 </div>
 
 ==Step Four - Set Up WordPress==
-With your installation complete, it's time to set up WordPress so it will work the way you want it to work. 
+With your installation complete, it's time to set up WordPress so it will work the way you want it to work.
 
 To help you understand how all the various features and screens on the WordPress Administration Panels work, check out the [[Administration_Panels|Administration Screens]] guide for a detailed walkthrough.
 
@@ -140,7 +138,7 @@ For help on creating your user profile information, of which some or all may app
 
 To set the site name and other information, go to [[Administration_Panels|Administration]] > [[Administration_Panels#General|Settings]] > [[Settings_General_SubPanel|General]].
 
-After you've published a few posts, you can experiment with the full edit or quick edit features in the [[Administration_Panels|Administration]] > [[Administration_Panels#Posts|Posts]] > [[Posts_Posts_SubPanel|Posts]] panel. 
+After you've published a few posts, you can experiment with the full edit or quick edit features in the [[Administration_Panels|Administration]] > [[Administration_Panels#Posts|Posts]] > [[Posts_Posts_SubPanel|Posts]] panel.
 
 Add your "About," "Contact," and other information Pages by going to [[Administration_Panels|Administration]] > [[Pages_Pages_SubPanel|Pages]] > Add New.
 
@@ -167,7 +165,7 @@ This is the design and layout of your WordPress site. Changing the look of your 
 * [[Using_Themes/Theme_List|WordPress Theme List]]
 * [[CSS|WordPress CSS Information and Techniques]]
 * [[Finding Your CSS Styles]]
-* [[Stepping Into Templates]] 
+* [[Stepping Into Templates]]
 * [[Stepping Into Template Tags]]
 * [[Using Images]]
 
@@ -210,9 +208,9 @@ If you want a custom-made WordPress Theme created especially for you by expert w
 </div>
 <div style="width: 45%; margin:0px 6px; float:left; display: inline">
 * [[Advanced Topics]]
-* [[Blog by Email]] 
-* [[Weblog_Client|Weblog Clients]] 
-* [[FAQ Layout and Design|FAQ Themes, Layout and Design]] 
+* [[Blog by Email]]
+* [[Weblog_Client|Weblog Clients]]
+* [[FAQ Layout and Design|FAQ Themes, Layout and Design]]
 * [[FAQ Advanced Topics|FAQ Advanced Topics]]
 </div>
 <div style="clear:both; height:10px">
@@ -251,7 +249,7 @@ As simple and easy as it is to use WordPress, if troubles arise, if something is
 ==Giving Back to WordPress==
 
 Now that you're a full fledged WordPress user, [[Codex:Community_Portal|consider contributing]] to the WordPress Codex, Support Forum, Development, and other volunteer efforts that keep WordPress going. WordPress is free and totally supported by volunteers, and your help is needed.
- 
+
 
 [[Category:WordPress Lessons]]
 [[Category:WordPress Help]]
