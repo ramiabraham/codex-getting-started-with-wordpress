@@ -49,7 +49,6 @@ For more detailed information and answers to common pre-installation questions, 
 * [[Pages|Understanding Pages]]
 * [[Introduction to Blogging]]
 * [[Comments in WordPress]]
-* [[HTML to XHTML]]
 * [[Finding WordPress Help]]
 * [[FAQ New To WordPress|Frequently Asked Questions: New To WordPress]]
 </div>
